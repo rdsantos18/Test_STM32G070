@@ -1,0 +1,5 @@
+# Test_STM32G070
+
+Teste STM32G070RB Nucleo Board
+
+LVGL , W25Q128, SPI
